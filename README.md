@@ -1,4 +1,4 @@
-# orangetreefrog4s repo
+# My repo
 This is where I host my JB ios repo.
 I'm stuck on ios 16 with no way back, which means:
 1) I use Palera1n
