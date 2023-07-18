@@ -2,7 +2,7 @@
 This is where I host my JB ios repo.
 I'm stuck on ios 16 with no way back, which means:
 1) I use Palera1n
-2) My stuff is compatible with ios 16 (rootless compatible)
+2) My stuff is compatible with ios 16 (rootless)
 # Add my repo! 😁
 [Repo:
 https://orangetreefrog4.github.io/repo/](https://orangetreefrog4.github.io/repo/)
