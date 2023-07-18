@@ -1,0 +1,8 @@
+Origin: orangetreefrog4s repo
+Label: orangetreefrog4s repo
+Suite: stable/beta
+Version: 1.0
+Codename: 4repo
+Architectures: iphoneos-arm
+Components: main
+Description: My repo.
