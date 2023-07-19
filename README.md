@@ -1,4 +1,6 @@
 # My repo
+![https://img.shields.io/badge/built_by_orangetreefrog4-orange?logo=github](https://img.shields.io/badge/built_by_orangetreefrog4-orange?logo=github)
+
 This is where I host my JB ios repo.
 I'm stuck on ios 16 with no way back, which means:
 1) I use Palera1n
